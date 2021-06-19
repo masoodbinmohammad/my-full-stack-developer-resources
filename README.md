@@ -1,3 +1,3 @@
 # My Full Stack Developer Resources
 
-These are list of my go to resources for my day to day work.
+These are the collection of resources that i refer to in my day to day life.
