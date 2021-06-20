@@ -7,13 +7,18 @@
 
 ## Chrome Extensions
 
-Wappalyzer
-* Identify the technologies used on various websites
+- Wappalyzer 
+Identify the technologies used on various websites
 
-📌 CSS Scan
-* Easiest way to check and copy CSS
+- CSS Scan
+  * Easiest way to check and copy CSS
 
-📌 Marmoset
-* Create gorgeous code snapshots within seconds
+- Marmoset
+  * Create gorgeous code snapshots within seconds
 
 
+## VSCode Extension
+- Componizer
+    * Genrate angular Components
+
+- 
