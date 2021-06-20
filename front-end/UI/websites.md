@@ -13,15 +13,7 @@
 - https://glassmorphism.com/ Glassmorphism
 
 
-
-## Youtube
-- https://www.youtube.com/c/JavaScriptMastery/playlists various javascript projects
-
-- https://www.youtube.com/watch?v=4ELH8CT4J0A Mern stack application course
-
-- 
-
-Html Templates
+## Html Templates
 
 - Free CSS templates
 https://t.co/9IOL8wsa3Q
@@ -54,3 +46,9 @@ https://t.co/XZbCX3LHNN
 
 - Red Stapler
 https://t.co/dq5YJA96Gl
+
+- https://www.youtube.com/c/JavaScriptMastery/playlists various javascript projects
+
+- https://www.youtube.com/watch?v=4ELH8CT4J0A Mern stack application course
+
+
