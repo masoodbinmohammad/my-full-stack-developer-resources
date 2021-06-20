@@ -5,4 +5,15 @@
 - [Bloackchainio](https://blockchaindemo.io) A visual demo of Blockchain technology
 - [Excaldraw](https://excalidraw.com)  diagram maker tool
 
+## Chrome Extensions
+
+Wappalyzer
+* Identify the technologies used on various websites
+
+📌 CSS Scan
+* Easiest way to check and copy CSS
+
+📌 Marmoset
+* Create gorgeous code snapshots within seconds
+
 
