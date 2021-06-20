@@ -8,6 +8,10 @@
 
 - https://medium.com/basecs/tagged/data-structures Vaidehi Joshi' basics
 
+- https://github.com/masoodbinmohammad/javascript-algorithms
+
+- https://github.com/masoodbinmohammad/sorting_algorithms
+
 
 Learning Platforms
 
