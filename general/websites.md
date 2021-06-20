@@ -8,7 +8,7 @@
 ## Chrome Extensions
 
 - Wappalyzer 
-Identify the technologies used on various websites
+   * Identify the technologies used on various websites
 
 - CSS Scan
   * Easiest way to check and copy CSS
