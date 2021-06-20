@@ -114,3 +114,38 @@ https://t.co/rKlqMVaoWw
 5. Tutorials point
 https://t.co/04oUm0YGcO
 
+## CSS Generator
+
+1. Stripes generator
+https://t.co/5uTPrwA5xD
+
+2. Gradient generator
+https://t.co/Yr6pueoWgx
+
+3 Pattern generator
+https://t.co/NQuV7pxLIz
+
+4. Animation generator
+https://t.co/IFmIEgDiVY
+
+5. Layout generator
+https://t.co/To2jx9zfsF
+
+
+## Design Inspiration
+
+1. CSS design awards
+https://t.co/RWdaU1qWkA
+
+2. Awwwards
+https://t.co/G2HBoB37fz
+
+3. CSS nectar
+https://t.co/U5bb3wRcq4
+
+4. Design modo 
+https://t.co/updhmaFZyi
+
+5. CSS winner
+https://t.co/gjKlJNwtEI
+
