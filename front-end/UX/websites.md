@@ -20,8 +20,6 @@
 
 ## Colors
 
-🔹 Colors
-
 1. Color Hunt
 https://t.co/dDn8G0igMj
 
@@ -52,5 +50,67 @@ https://t.co/Wm0u62A1IF
 https://t.co/FDFKbhCcx3
 
 
+## AI integrated color picker
 
+11. Khroma
+https://t.co/5nOddE45PZ
+
+12. Colormind
+https://t.co/5nOddE45PZ
+
+13. Eva Design System
+https://t.co/jsZIVrr49k
+
+14. AI color generator
+https://t.co/hFaJdXwcqB
+
+## Code Snippets
+
+1. Web tools
+https://t.co/K9QzJeX1gd
+
+2. Little snippets
+https://t.co/2SwFXGH9Jq
+
+3. Enjoy CSS 
+https://t.co/MctBAib84T
+
+4. CSS Tricks 
+https://t.co/DLt7cjx7UN
+
+5. CSS Deck 
+https://t.co/LcZYnipvCy
+
+6. W3 How to
+https://t.co/dqMy8HygnE
+
+7. Snipplr
+https://t.co/E0SJs2gkl8
+
+8. Stack overflow
+https://t.co/8rEohtDYIS
+
+9. Codepen
+https://t.co/n0NfUDHipj
+
+10. Code my UI
+https://t.co/N8NQLf8ehn
+
+
+## Documents and Notes
+
+1. W3 Schools
+https://t.co/pXhL1Un6d2
+
+2. MDN 
+https://t.co/rp3CTZtHqY
+
+3. DevDocs
+https://t.co/R6lI9CWzOU
+
+4. Geeks for geeks
+https://t.co/rKlqMVaoWw
+
+5. Tutorials point
+https://t.co/04oUm0YGcO
 
