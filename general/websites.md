@@ -16,6 +16,20 @@ Identify the technologies used on various websites
 - Marmoset
   * Create gorgeous code snapshots within seconds
 
+- CSS Peeper 
+https://t.co/3OCrTJBfV8  
+
+- Pesticide 
+https://t.co/320fLzeMll
+
+- Stylebot 
+https://t.co/7hWBvvIYMQ
+
+- Perfect Pixel 
+https://t.co/wdLauKshN3
+
+- Colorpick eyedropper
+https://t.co/x6Xaoc0ePW
 
 ## VSCode Extension
 - Componizer
