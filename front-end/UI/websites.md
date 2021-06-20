@@ -13,7 +13,7 @@
 - https://glassmorphism.com/ Glassmorphism
 
 
-## Html Templates
+## HTML Templates
 
 - Free CSS templates
 https://t.co/9IOL8wsa3Q
