@@ -12,6 +12,18 @@
 
 - https://glassmorphism.com/ Glassmorphism
 
+- Bubble
+https://bubble.io
+
+- codeIf
+https://unbug.github.io/codelf/
+
+- HiddenTools
+https://hiddentools.dev
+
+- BundlePhobia
+https://bundlephobia.com
+
 
 ## HTML Templates
 
